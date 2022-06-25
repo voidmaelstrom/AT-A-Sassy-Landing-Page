@@ -3,7 +3,7 @@
     @if(lightness($color) > 70) {
       @return rgb(0, 0, 0);
     } @else {
-      @return rgb(29, 247, 9);
+      @return rgb(123,52,29);
     }
   }
   

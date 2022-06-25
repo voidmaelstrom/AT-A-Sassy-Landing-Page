@@ -8,7 +8,7 @@
 .btn-secondary, .btn-primary {
   display: inline-block;
   border-radius: 5px;
-  border-color: #1DF709;
+  border-color: #6CB2CC;
   padding: 8px 20px;
   margin: 3px;
 }
@@ -18,12 +18,12 @@
 
 .btn-primary {
   border-color: #001c47;
-  color: rgb(29, 247, 9);
+  color: rgb(123, 52, 29);
 }
 
 .btn-secondary {
-  border-color: #1DF709;
-  color: rgb(29, 247, 9);
+  border-color: #6CB2CC;
+  color: rgb(123, 52, 29);
 }
 
 .box {
@@ -55,7 +55,7 @@ a {
 
 .hero {
   border-color: #000814;
-  color: rgb(29, 247, 9);
+  color: rgb(123, 52, 29);
   height: 600px;
 }
 .hero nav {
@@ -71,10 +71,10 @@ a {
   padding: 15px;
 }
 .hero nav a {
-  color: rgb(29, 247, 9);
+  color: rgb(123, 52, 29);
 }
 .hero nav a:hover {
-  color: #1DF709;
+  color: #6CB2CC;
 }
 .hero-content {
   height: 100%;
